@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7ECD10A-F9C4-4678-AB11-99F039D944F3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QuarzDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F864C2DF7352D44ACDBE582B33CA27EF18CBD08E</key>
+		<string>https://github.com/guangjianzhou/QuarzTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QuarzDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F864C2DF7352D44ACDBE582B33CA27EF18CBD08E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/guangjianzhou/QuarzTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F864C2DF7352D44ACDBE582B33CA27EF18CBD08E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F864C2DF7352D44ACDBE582B33CA27EF18CBD08E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QuarzDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

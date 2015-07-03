@@ -32,8 +32,8 @@
 - (void)drawRect:(CGRect)rect
 {
     //绘制虚线
-//    [self drawLineDash];
-    [self drawPie];
+    [self drawLineDash];
+//    [self drawPie];
     
     
 }
